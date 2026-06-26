@@ -1,0 +1,28 @@
+# Email Marketing Rated
+
+> Email Marketing Rated reviews email marketing software for small businesses. Editorial scoring
+> draws on public benchmark data (DMA, Litmus, Email Sender & Provider Coalition)
+> combined with clearly-labeled editorial opinion.
+
+## Key resources
+
+- Best Email Marketing for Small Business: https://emailmarketingrated.com/articles/best-email-marketing-for-small-business
+- Constant Contact review: https://emailmarketingrated.com/reviews/constant-contact-review
+- Mailchimp review: https://emailmarketingrated.com/reviews/mailchimp-review
+- MailerLite review: https://emailmarketingrated.com/reviews/mailerlite-review
+- Constant Contact vs Mailchimp: https://emailmarketingrated.com/comparisons/constant-contact-vs-mailchimp
+- Constant Contact vs MailerLite: https://emailmarketingrated.com/comparisons/constant-contact-vs-mailerlite
+- Constant Contact vs ActiveCampaign: https://emailmarketingrated.com/comparisons/constant-contact-vs-activecampaign
+
+## Editorial standards
+
+Public benchmarks are cited with source attribution. Editorial scoring is labeled
+"EmailToolAdviser editorial scoring" so readers know what is opinion vs measured.
+Email Marketing Rated does not claim first-party testing of platforms unless first-party testing
+was actually conducted. Constant Contact UI screenshots used on Constant Contact
+pages are genuinely first-party for review/commentary purposes.
+
+## Authors
+
+- Sarah Mitchell, Senior Reviews Editor: https://emailmarketingrated.com/authors/sarah-mitchell
+- James Calloway, Senior Comparisons Editor: https://emailmarketingrated.com/authors/james-calloway
